@@ -47,16 +47,3 @@ $ yarn start
 # ou utilizar os atalhos para abrir no emulador
 
 ```
-
-## Desenvolvedores
-
-<table align="center">
-<tr>
-<td> 
-<div align="center">
-<img style="width: 150px; border-radius: 50%;" src="https://github.com/CaduZulian.png" alt="CaduZulian"/><br />
-<a href="https://github.com/CaduZulian">Carlos Eduardo Zulian</a> 
-</div>  
-</td>
-</tr>
-</table>
