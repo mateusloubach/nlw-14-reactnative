@@ -20,7 +20,7 @@ O projeto consiste em um aplicativo de delivery, onde o usuário tem acesso ao c
 - **[Nativewind](https://www.nativewind.dev/)**
 - **[Zustand](https://zustand-demo.pmnd.rs/)**
 
-> Veja o arquivo [package.json](https://github.com/CaduZulian/nlw-expert-react-native/blob/main/package.json)
+> Veja o arquivo [package.json](https://github.com/mateusloubach/nlw-14-reactnative/blob/main/package.json)
 
 ## Rodando o projeto
 
