@@ -29,7 +29,7 @@ Com o expo, é muito simples rodar esse projeto, basta seguir os passos abaixo:
 ```bash
 # Clone este repositório
 
-$ git clone https://github.com/CaduZulian/nlw-expert-react-native.git
+$ git clone 
 
 # Acesse a pasta do projeto no terminal/cmd
 
